@@ -9,8 +9,10 @@ To use properly, filter on http://store.steampowered.com/wishlist and https://st
 rules.css has the basic version, while supershot.css has a version that hides the platform icons and shrinks things even more. 
 
 At 1440p the default wishlist barely shows 5 games, vertically. 
+
 rules.css shows 8.
-supershort shows 11. 
+
+supershort.css shows 11. 
 
 
 Hope this helps the new page annoy someone less! 
