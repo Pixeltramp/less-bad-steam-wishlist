@@ -13,9 +13,9 @@
 }
 		
 .wishlist_row .title {
-    font-size: 18px !important;
+    font-size: 16px !important;
     font-weight: 500 !important;
-    margin: 0 0 4px 0 !important;
+    margin: 0 0 0px 0 !important;
 }
 
 .wishlist_row .lower_container {
@@ -23,7 +23,7 @@
 }
 
 .wishlist_row .platform_icons {
-    margin-bottom: 5px !important;
+    display: none !important;
 }
 
 .capsule img {
@@ -31,12 +31,29 @@
 }
 
 .wishlist_row .capsule {
-	height: 102px !important;
-	width: 219px !important;
+	height: 70px !important;
+	width: 148px !important;
 }
 
 .wishlist_row .capsule .screenshots, .wishlist_row .capsule .screenshots > div {
-    width: 219px !important;
-    height: 102px !important;
+    width: 148px !important;
+    height: 70px !important;
     left: 0 !important;
+}
+
+.wishlist_row .purchase_area {
+    height: 28px !important;
+}
+
+.purchase_area .btn_medium > span, .purchase_area input.btn_medium {
+    line-height: 24px !important;
+}
+		
+.discount_block_large .discount_prices {
+    line-height: 8px !important;
+}
+
+.hover_handle img {
+    left: 12px !important;
+    width: 40% !important;
 }
