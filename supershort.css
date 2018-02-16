@@ -10,6 +10,7 @@
 
 .wishlist_row {
 	padding: 8px !important;
+	margin-bottom: 12px;
 }
 		
 .wishlist_row .title {
@@ -67,4 +68,14 @@
 	line-height: 12px !important;
 	top: -6px !important;
 	position: relative !important;
+}
+
+.wishlist_row .tags, .wishlist_row .addedon {
+	margin-top: 4px;
+}
+
+.wishlist_row .tag {
+	display: inline-block;
+	margin-right: 5px;
+	padding: 0px 3px;
 }
