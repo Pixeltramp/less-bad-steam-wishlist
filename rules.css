@@ -1,0 +1,44 @@
+.hover_handle {
+    width: 40px !important;
+    border-right: 1px solid rgba(0, 0, 0, 0.2) !important;
+}
+.hover_handle {
+    display: block !important;
+}
+
+.capsule {
+    margin-left: 40px !important;
+}
+
+.wishlist_row {
+    padding: 8px !important;
+}
+		
+.wishlist_row .title {
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    margin: 0 0 4px 0 !important;
+}
+
+.wishlist_row .lower_container {
+    margin-top: -8px !important;
+}
+
+.wishlist_row .platform_icons {
+    margin-bottom: 5px !important;
+}
+
+.capsule img {
+	height: 100% !important;
+}
+
+.wishlist_row .capsule {
+	height: 102px !important;
+	width: 219px !important;
+}
+
+.wishlist_row .capsule .screenshots, .wishlist_row .capsule .screenshots > div {
+    width: 219px !important;
+    height: 102px !important;
+    left: 0 !important;
+}
