@@ -79,3 +79,7 @@
 	margin-right: 5px;
 	padding: 0px 3px;
 }
+
+.discount_block.no_discount .discount_final_price {
+    margin-top: 8px;
+}
