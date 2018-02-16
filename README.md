@@ -12,7 +12,7 @@ At 1440p the default wishlist barely shows 5 games, vertically.
 
 rules.css shows 8.
 
-supershort.css shows 11. 
+supershort.css shows 10.5. 
 
 
 Hope this helps the new page annoy someone less! 
