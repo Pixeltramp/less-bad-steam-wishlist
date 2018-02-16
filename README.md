@@ -6,7 +6,7 @@ Using a custom user style addon like [Stylish](https://addons.mozilla.org/en-US/
 
 To use properly, filter on http://store.steampowered.com/wishlist and https://store.steampowered.com/wishlist
 
-rules.css has the basic version, while supershot.css has a version that hides the platform icons and shrinks things even more. 
+rules.css has the basic version, while supershort.css has a version that hides the platform icons and shrinks things even more. 
 
 At 1440p the default wishlist barely shows 5 games, vertically. 
 
